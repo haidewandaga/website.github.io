@@ -1,0 +1,167 @@
+body{
+	background-image: url("http://www.iwallfree.com/wp-content/uploads/2013/08/Bamboo-Green-Wallpaper-HD-Dekstop.jpg");
+	width: 100%;
+	height: 100%;
+	background-size: contain;
+}
+
+#Banner{
+	padding-top: 120px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+
+#image1{
+	width: 1000px;
+	height: 220px;
+}
+#navbarr{
+	padding-top: 20px;
+}
+#header{
+	position: relative;
+}
+#nav{
+	z-index: 1;
+	position: fixed;
+	width: 105%;
+	height: 80px;
+	background-image: url("https://px.multiscreensite.com/index.php?url=http%3A%2F%2Foi67.tinypic.com%2Fumyd5.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+#gre{
+	font-family: Castellar;
+	font-weight: bold;
+	color: white;
+	text-align: left;
+	font-size: 35px;
+	margin-left: 20px;
+}
+
+#home{
+	font-family: Castellar;
+	font-weight: bold;
+	text-align: right;
+	margin-left: 150px;
+	font-size: 22px;
+
+}
+
+
+#history{
+	font-family: Castellar;
+	font-weight: bold;
+	text-align: right;
+	margin-left: 110px;
+	font-size: 22px;
+}
+
+#A{
+		font-family: Castellar;
+	font-weight: bold;
+	text-align: right;
+	margin-left: 110px;
+	font-size: 22px;
+}
+
+#PhotoGal{
+
+	font-family: Castellar;
+	font-weight: bold;
+	text-align: right;
+	margin-left: 110px;
+	font-size: 22px;
+}
+
+
+a:link {
+    color: white;
+
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: black;
+    font-weight: bold;
+}
+
+a:active {
+    color: white;
+    font-weight: bold;
+
+}
+
+#gal{
+	padding-top: 20px;
+	position: relative;
+}
+
+#ArticleImg{
+	width: 330px;
+	height: 190px;
+	padding-left: 50px;
+	padding-bottom: 10px;
+}
+
+#ArtiWord{
+	color: white;
+	padding-left: 20px;
+	padding-right: 80px;
+	padding-top: 15px;
+}
+#intro{
+	margin-left: 180px;
+	margin-right: 200px;
+	margin-top: 20px;
+	text-align: center;
+	font-family: Candara;
+	color: white;
+	font-weight: bold;
+	font-size: 20px;
+	background-color: black;
+	opacity: .8;
+	margin-bottom: 20px;
+}
+#galbar{
+	margin-top: 20px;
+	text-align: center;
+	font-family: Candara;
+	color: white;
+	font-weight: bold;
+	font-size: 20px;
+	background-color: black;
+	opacity: .8;
+	margin-bottom: 20px;
+}
+
+#profile{
+	height: 200px;
+	width:200px;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-image:url("http://www.psdgraphics.com/file/couple-silhouette.jpg");
+	background-size:contain;
+	background-repeat:no-repeat;
+	
+}
+#spots{
+	text-align:left;
+	margin-top:5px;
+	margin-bottom:5px;
+	color: white;
+	background-color:black;
+	opacity: .8;
+	font-size: 30px;
+	font-family: Castellar;
+	font-weight:bold;
+	margin-left: 20px;
+	float:center;
+	
+	
+}
